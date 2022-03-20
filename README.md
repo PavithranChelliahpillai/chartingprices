@@ -8,6 +8,7 @@ Charting stock prices - used BTC-USD to demo as it has activity 24/7.
   <li>Themed neon green, removed all the gridlines, and auto adjusting (if data hits extrema)</li>
 </ul>
 <br>
+
 ## Future ideas
 <ul>
   <li>Make every image replace the previous such that there isn't an excess amount of images</li>
